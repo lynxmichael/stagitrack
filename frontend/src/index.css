@@ -1,0 +1,43 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Inter', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+#root { min-height: 100vh; }
+
+/* Glass input */
+.glass-input {
+  width: 100%;
+  padding: 0.625rem 1rem;
+  background: rgba(255,255,255,0.6);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(203,213,225,0.8);
+  border-radius: 0.75rem;
+  outline: none;
+  transition: all 0.2s;
+  color: #1e293b;
+  font-size: 0.875rem;
+}
+.glass-input:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.15); }
+
+.dark .glass-input {
+  background: rgba(30,41,59,0.7);
+  border-color: rgba(71,85,105,0.6);
+  color: #f1f5f9;
+}
+.dark .glass-input:focus { border-color: #3b82f6; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 99px; }
+.dark ::-webkit-scrollbar-thumb { background: #475569; }
+
+/* Page bg gradient */
+.page-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f0f4ff 0%, #faf5ff 50%, #f0fdf4 100%);
+}
+.dark .page-bg {
+  background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f2027 100%);
+}
+
+/* Toastify overrides */
+.Toastify__toast { border-radius: 12px !important; font-family: 'Inter', sans-serif !important; }

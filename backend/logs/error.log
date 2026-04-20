@@ -1,0 +1,19 @@
+[2026-04-17 15:01:20] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:01:26] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:01:52] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:01:59] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:07:53] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:08:11] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:08:51] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:53:47] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:01] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:11] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:46] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:59] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 19:06:26] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 19:06:43] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 19:12:53] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:17:10] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:17:19] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:18:36] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:31:49] error: PUT /api/stagiaires/2 - Champ 'date_naissance' inconnu dans field list

@@ -1,0 +1,65 @@
+[2026-04-17 14:51:53] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 14:51:53] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 14:51:53] info: 🌍 Environnement : development
+[2026-04-17 14:51:53] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 14:52:07] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 14:52:07] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 14:52:07] info: 🌍 Environnement : development
+[2026-04-17 14:52:07] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 15:01:20] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:01:26] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:01:52] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:01:59] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:07:53] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:08:11] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:08:51] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 15:12:07] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 15:12:07] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 15:12:07] info: 🌍 Environnement : development
+[2026-04-17 15:12:07] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 18:51:36] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 18:51:36] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 18:51:36] info: 🌍 Environnement : development
+[2026-04-17 18:51:36] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 18:53:47] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:01] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:11] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:46] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 18:54:59] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 19:06:26] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 19:06:43] error: POST /api/auth/login - Identifiants invalides
+[2026-04-17 19:12:53] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:17:10] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:17:19] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:18:36] error: PATCH /api/alertes/1/resolve - Champ 'resolved_at' inconnu dans field list
+[2026-04-17 19:19:42] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 19:19:42] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 19:19:42] info: 🌍 Environnement : development
+[2026-04-17 19:19:42] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 19:19:56] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 19:19:56] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 19:19:56] info: 🌍 Environnement : development
+[2026-04-17 19:19:56] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 19:20:33] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 19:20:33] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 19:20:33] info: 🌍 Environnement : development
+[2026-04-17 19:20:33] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 19:21:05] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-17 19:21:05] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-17 19:21:05] info: 🌍 Environnement : development
+[2026-04-17 19:21:05] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-17 19:31:49] error: PUT /api/stagiaires/2 - Champ 'date_naissance' inconnu dans field list
+[2026-04-20 08:00:00] info: 🕐 CRON alerteJob: vérification des fins de stage...
+[2026-04-20 08:00:00] info: ✅ alerteJob: 0 alerte(s) créée(s)
+[2026-04-20 08:37:14] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-20 08:37:14] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-20 08:37:14] info: 🌍 Environnement : development
+[2026-04-20 08:37:14] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-20 08:39:26] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-20 08:39:26] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-20 08:39:26] info: 🌍 Environnement : development
+[2026-04-20 08:39:26] info: 📦 Frontend autorisé : http://localhost:5173
+[2026-04-20 09:34:43] info: ⏰ alerteJob planifié (tous les jours à 08h00)
+[2026-04-20 09:34:43] info: 🚀 StagiTrack API démarrée sur http://localhost:5000
+[2026-04-20 09:34:43] info: 🌍 Environnement : development
+[2026-04-20 09:34:43] info: 📦 Frontend autorisé : http://localhost:5173
